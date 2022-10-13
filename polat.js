@@ -165,11 +165,7 @@ client.on("message", async message => {
             functions.errorbuilder(error.stack.toString().substr(0, 2000))
         }
     } else
-        return message.reply(`Unkown command, try: ${prefix}help`)
-});
-
-client.login("MTAzMDE1MjkwNTgwNzg4ODM4NA.G9ao9o.6oTbYn9l0AmXCcP8lLBz7OcwkxptiMRpj6Ds0U");
-
+        return message.reply(`Unkown command, try: $
 
 
 //BOT CODED BY: POLAT
